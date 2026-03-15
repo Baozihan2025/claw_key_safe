@@ -104,7 +104,6 @@ Bearer abcdefghijklmnopqrstuvwxyz123456
 
 - 本仓库不包含任何真实 API key、token、secret、应用配置
 - README 中所有示例字符串均为占位示例
-- 发布前请不要提交你自己的 `openclaw.json`、`.env`、会话日志或容器导出文件
 
 ## License
 
